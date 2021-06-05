@@ -1,0 +1,25 @@
+#homepage-main-div{
+    background-color:rgb(29, 1, 54);
+    min-width:100vw;
+    min-height:100vh;
+    color:white;
+    display : flex;
+    align-items: center;
+    justify-content : center;
+
+    
+}
+
+#token-paragraph{
+    font-size:0.5rem;
+}
+
+#homepage-main-content{
+    width:80%;
+    
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    align-items : center;
+    justify-content : center;
+}

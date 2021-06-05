@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4df084bf.chunk.css",
+    "main.js": "/static/js/main.ccbecb5d.chunk.js",
+    "main.js.map": "/static/js/main.ccbecb5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc85cbe0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc85cbe0.js.map",
+    "static/css/2.800be05e.chunk.css": "/static/css/2.800be05e.chunk.css",
+    "static/js/2.b5c870e7.chunk.js": "/static/js/2.b5c870e7.chunk.js",
+    "static/js/2.b5c870e7.chunk.js.map": "/static/js/2.b5c870e7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.4df084bf.chunk.css.map": "/static/css/main.4df084bf.chunk.css.map",
+    "static/js/2.b5c870e7.chunk.js.LICENSE.txt": "/static/js/2.b5c870e7.chunk.js.LICENSE.txt",
+    "static/media/LandingPage.css": "/static/media/Landing.f45ed0cd.jpg",
+    "static/media/LoginPage.css": "/static/media/Login-Background.915e1639.png",
+    "static/media/App.css": "/static/media/Nunito.e4eb7682.ttf",
+    "static/media/SignUpPage.css": "/static/media/SIgnup-Background.552d2da0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc85cbe0.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.b5c870e7.chunk.js",
+    "static/css/main.4df084bf.chunk.css",
+    "static/js/main.ccbecb5d.chunk.js"
+  ]
+}
